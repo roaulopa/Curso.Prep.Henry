@@ -1,0 +1,22 @@
+      ↓ Variables
+
+La varaiable ss un espacio de memoria al que se le asigna un nombre. Este espacio de memoria se reserva par guardar valores 
+utilizados en el programa, como por ejemplo de tipo numerico, string, booleno, funcion y objeto
+
+       ↓Strings
+
+Son una serie de carateres que pueden representar una cadena o una solo dato textual. Pueden representar letras, numeros y/o simbolos.
+
+       ↓Funciones (argumentos, return)
+
+Una funion es un conjunto o serie de lineas que relizan una tarea. La funcion tiene una entrada y una salida. En la funcion se puede tambien
+ayudar a establecer un scope. La funcion tiene que ser definida por un nombre.
+
+       ↓Declaraciones if
+
+Es una sentencia utilizada para evaluar una condicion. La condicion es evaluaa como falase o verdadera. Denpendiendo del resultado.
+Se ejecutara un bloque de instrucciones. Es una estructura utilizada comunmente en la toma de decisiones.
+
+       ↓Valores booleanos (true, false)
+
+Es una expresion que se compone de dos valores, true o false. Se utiizan para guardr informacion del tipo si o no.
