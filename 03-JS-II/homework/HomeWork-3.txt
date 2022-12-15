@@ -1,0 +1,25 @@
+Tarea 3 - JS II
+
+   `for`
+
+	Es un ciclo que nos permite repetir una serie de instrucciones contenidas dentro de la estructura. Dentro este ciclo nosotros
+determinamos el numero de veces que se deben de repetir las intrucciones o hasata que una condicion opcional sea "false".
+
+    `&&`
+
+	El operador logico AND, lo utilizamos para evaluar (de forma 'BOOLENA') si 2 valores u operandos son verdaderos o falsos. En el 
+caso de que los dos operandos son verdaderos, el operdor AND nos devolveria 'TRUE'. Si una expresion o dos son falsas entonces 
+devolveria un 'FALSE'.
+
+
+      `||`
+
+	El operador logico OR, lo utilizamos para evaluar (de forma 'BOOLENA')  2 valores u operando. En el 
+caso de que cualquiera de los dos operandos sea verdadero, el operdor OR nos devolveria 'TRUE'. Si los dos son operandos son falsos 
+entonces devolveria un 'FALSE'.
+
+
+       `!`
+
+	El operador lógico NOT no realiza ninguna comparación como lo hacen los operadores AND y OR. El operador Not priemro convierte
+la expresión en un valor booleano y despues devulve el valor contrario del booleano obtenido.
