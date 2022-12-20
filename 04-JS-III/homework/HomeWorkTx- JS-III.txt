@@ -1,0 +1,7 @@
+
+
+            * Arrays
+
+
+Un array es un conjunto de elementos ordenados y asignados por el porgramador para guardar datos, en los que se puede acceder de manera
+controlada. Estos datos pueden ser de cualquier tipo, numeros, letras, vlores booleanos, etc. 
