@@ -1,0 +1,30 @@
+		* Objetos
+
+
+	Un objeto es una serie de atributos (propiedades), estas propiedades son una liga entre una clave y un valor. El valor de un 
+atributo puede ser por ejemplo una función, un string, numero, etc. Es parecido a los array pero con la diferencia de que
+un array es una reglo en orden numerico y un objeto es un conjunto de propedades a las que se les asigna un valor.
+
+		* Propiedades
+
+	Las propiedad de un objeto se parece mucho a una variable, a la cual se le pueden asiganar vlore. Pero con la diferencia de
+que esta ligada al objeto. 
+
+		* Métodos
+
+	Cuando a una propiedad se le asigna una funcione que le permiten al objeto hacer algo con esos datos, 
+y se le llama método del objeto.
+
+		* Bucle `for…in`
+
+La instrucción for-in crea un bucle o itera sobre todas las propiedades de un objeto.
+
+		* Notación de puntos vs notación de corchetes
+
+	Para ambos casos es una forma de acceder a las propiedades y metodos de un objeto, pero con una leve dferencia. En el caso 
+de usa la nocacion de punto, el punto sirve como espacio entre en nombre del objeto, primero se pone el nombre seguido del punto y 
+despues se pone el elemento al cual quieres acceder.
+
+        En el caso de los corchetes se accede a los elementos de la misma manera pero con la diferencia de que el elemento es ecrito
+entre corchetes y utilizando comillas como su fueran cadenas de texto.
+	
