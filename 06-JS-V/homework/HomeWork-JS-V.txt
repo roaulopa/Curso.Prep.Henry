@@ -1,0 +1,10 @@
+			
+	* `prototype`
+
+
+	Los prototipos es un tipo de programacion mediante el cual los objetos en JavaScript heredan características entre sí. De esta manera 
+podemos ahorrar memoria, al evitar estar creando metodos por cada objeto añadido en las clases.
+
+	*_Constructors_ (de Clases)
+
+	Es un método especial que nos permite crear e inicializar los objetos, derivados de establecer un objeto atra vez de una clase.
